@@ -6,12 +6,12 @@ The codes were written in MATLAB language. `ensemleDeepModels_MAIN.m` is the mai
 
 Besides of all files in this repo, it is necessary to download [deepModelResults.mat](https://yadi.sk/d/ff6Tld0jcbrz2g) (143 MB) from provided link. This file stores probability maps coming from four individual Deep Models for *CHAOS CT Set 2*. These models are:
 
-1. K. Kamnitsas, E. Ferrante, S. Parisot, C. Ledig, A. V. Nori, A. Criminisi et al., “DeepMedic for brain tumor segmentation,” in Lecture Notes in Computer Science, vol. 10154 LNCS. Springer, Cham, oct 2016, pp. 138–149. http://link.springer.com/10.1007/978-3-319-55524-9 14
+1. K. Kamnitsas, E. Ferrante, S. Parisot, C. Ledig, A. V. Nori, A. Criminisi et al., “DeepMedic for brain tumor segmentation,” in Lecture Notes in Computer Science, vol. 10154 LNCS. Springer, Cham, oct 2016, pp. 138–149. https://link.springer.com/chapter/10.1007/978-3-319-55524-9_14
 
 2. E. Gibson, F. Giganti, Y. Hu, E. Bonmati, S. Bandula, K. Gurusamy et al., “Automatic Multi-Organ Segmentation on Abdominal CT with Dense V-Networks,” IEEE Transactions on Medical Imaging, vol. 37, no. 8, pp. 1822–1834, aug 2018. https://ieeexplore.ieee.org/document/8291609/
 
 3. O. Ronneberger, P. Fischer, and T. Brox, “U-net: Convolutional networks for biomedical image segmentation,” in Lecture Notes in Computer Science, vol. 9351.
-Springer, Cham, 2015, pp. 234–241. http://link.springer.com/10.1007/978-3-319-24574-4 28
+Springer, Cham, 2015, pp. 234–241. https://link.springer.com/chapter/10.1007%2F978-3-319-24574-4_28
 
 4. F. Milletari, N. Navab, and S. A. Ahmadi, “V-Net: Fully convolutional neural networks for volumetric medical image segmentation,” in Proceedings - 2016 4th International Conference on 3D Vision, 3DV 2016. IEEE, oct 2016, pp. 565–571. 
 http://ieeexplore.ieee.org/document/7785132/
